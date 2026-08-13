@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Srinivas!
-
+![Profile](profile.jpg)
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+DevOps;Learning+Web+Development;Exploring+Programming)
 
 ---
